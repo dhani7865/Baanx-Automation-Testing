@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31615" started-at="2020-06-02T14:30:20Z" finished-at="2020-06-02T14:30:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31615" started-at="2020-06-02T14:30:20Z" finished-at="2020-06-02T14:30:52Z">
+      <class name="com.baanx.BaanxAutomation.BaanxForgottonPasswordTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.baanx.BaanxAutomation.BaanxForgottonPasswordTest@1ef968d]" name="beforeClass" is-config="true" duration-ms="106" started-at="2020-06-02T14:30:20Z" finished-at="2020-06-02T14:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="BaanxForgottonPasswordTest()[pri:0, instance:com.baanx.BaanxAutomation.BaanxForgottonPasswordTest@1ef968d]" name="BaanxForgottonPasswordTest" duration-ms="31250" started-at="2020-06-02T14:30:20Z" finished-at="2020-06-02T14:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaanxForgottonPasswordTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.baanx.BaanxAutomation.BaanxForgottonPasswordTest@1ef968d]" name="afterClass" is-config="true" duration-ms="241" started-at="2020-06-02T14:30:51Z" finished-at="2020-06-02T14:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.baanx.BaanxAutomation.BaanxForgottonPasswordTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
